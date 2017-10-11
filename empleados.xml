@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<empleados>
+    <empleado>
+        <Id>1</Id>
+        <Nombe>Alberto</Nombe>
+        <Departamento>10</Departamento>
+        <Salario>2000.0</Salario>
+    </empleado>
+    <empleado>
+        <Id>2</Id>
+        <Nombe>Guillermo</Nombe>
+        <Departamento>20</Departamento>
+        <Salario>1500.5</Salario>
+    </empleado>
+    <empleado>
+        <Id>3</Id>
+        <Nombe>Alejandro</Nombe>
+        <Departamento>30</Departamento>
+        <Salario>3000.4</Salario>
+    </empleado>
+    <empleado>
+        <Id>4</Id>
+        <Nombe>Ana</Nombe>
+        <Departamento>20</Departamento>
+        <Salario>2300.6</Salario>
+    </empleado>
+    <empleado>
+        <Id>5</Id>
+        <Nombe>Patricia</Nombe>
+        <Departamento>10</Departamento>
+        <Salario>1900.1</Salario>
+    </empleado>
+</empleados>
